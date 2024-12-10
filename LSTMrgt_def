@@ -1,0 +1,7 @@
+class LSTMrgt(HyperModel):
+  def __init__():
+    super().__init__()
+  def call:
+    pass
+  def build:
+    pass
